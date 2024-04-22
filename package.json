@@ -1,0 +1,23 @@
+{
+  "name": "teste_bgc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardaSobreira/teste_bgc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardaSobreira/teste_bgc/issues"
+  },
+  "homepage": "https://github.com/EduardaSobreira/teste_bgc#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
