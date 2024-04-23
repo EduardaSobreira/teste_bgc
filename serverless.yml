@@ -1,0 +1,15 @@
+service: teste-bgc
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  region: us-east-2
+
+functions:
+  bestsellers:
+    handler: handler.bestsellers
+    events:
+      - http:
+          path: /bestsellers
+          method: GET
+          cors: true

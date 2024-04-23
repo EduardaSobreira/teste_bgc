@@ -1,8 +1,8 @@
 {
   "name": "teste_bgc",
+  "description": "Busca os produtos mais vendidos da Amazon usando serviços da AWS",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "handler.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
